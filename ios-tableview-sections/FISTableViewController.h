@@ -10,4 +10,9 @@
 
 @interface FISTableViewController : UITableViewController
 
+@property (nonatomic, strong) NSArray *students;
+
+
+
+
 @end
